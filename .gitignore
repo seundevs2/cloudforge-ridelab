@@ -17,3 +17,5 @@ venv/
 
 # Logs
 *.log
+# Generated monitoring reports
+python-practice/report.json
